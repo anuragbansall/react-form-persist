@@ -1,0 +1,39 @@
+{
+  "name": "react-form-persist",
+  "version": "1.0.0",
+  "description": "Seamlessly persist and restore React form state with localStorage. Simple, lightweight, and hassle-free.",
+  "keywords": [
+    "react",
+    "form",
+    "localStorage",
+    "persist",
+    "save form",
+    "form state",
+    "react hook",
+    "auto save",
+    "form recovery",
+    "storage",
+    "sessionStorage",
+    "input persistence",
+    "unload protection",
+    "react form persist"
+  ],
+  "homepage": "https://github.com/anuragbansall/react-form-persist#readme",
+  "bugs": {
+    "url": "https://github.com/anuragbansall/react-form-persist/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragbansall/react-form-persist.git"
+  },
+  "license": "MIT",
+  "author": "Anurag Bansal",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.1.0"
+  }
+}
