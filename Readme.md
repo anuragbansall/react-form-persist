@@ -17,11 +17,6 @@
 
 ## Installation
 
-````bash
-npm install react-form-persist
-
-or
-
 ```bash
-yarn add react-form-persist
-````
+npm install react-form-persist
+```
