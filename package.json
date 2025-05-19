@@ -1,6 +1,6 @@
 {
   "name": "react-form-persist",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Seamlessly persist and restore React form state with localStorage. Simple, lightweight, and hassle-free.",
   "keywords": [
     "react",
